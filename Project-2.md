@@ -30,7 +30,7 @@ DevOps project with Git, Jenkins and Docker on AWS
 
 ![image](https://user-images.githubusercontent.com/47205003/120972567-7d35ee00-c78b-11eb-93d7-b34b7bf8184b.png)
 
-![image](https://user-images.githubusercontent.com/47205003/120972521-7313ef80-c78b-11eb-8278-52a908701834.png)
+![image](https://user-images.githubusercontent.com/47205003/121031218-c9068880-c7c7-11eb-862c-ed86a142de86.png)
 
 4. Setup Web Server on Putty
 
