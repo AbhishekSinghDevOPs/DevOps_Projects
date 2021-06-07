@@ -20,3 +20,7 @@ DevOps project with Git, Jenkins and Docker on AWS
 
 ![image](https://user-images.githubusercontent.com/47205003/120965438-84a4c980-c782-11eb-8760-88848bad48a2.png)
 
+![image](https://user-images.githubusercontent.com/47205003/120971129-eae11a80-c789-11eb-8e13-020d25983ef3.png)
+
+![image](https://user-images.githubusercontent.com/47205003/120971171-f6344600-c789-11eb-8394-268fc38c1304.png)
+
