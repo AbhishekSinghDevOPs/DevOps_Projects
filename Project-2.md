@@ -2,18 +2,21 @@
 
 DevOps project with Git, Jenkins and Docker on AWS 
 
-1.Launch an EC2 instance for Docker host
+1. Launch Four EC2 instances on AWS console Developer, Jenkins Server, Ansible Server, Web Server
 
-![image](https://user-images.githubusercontent.com/47205003/120881852-acb0f300-c5f1-11eb-9763-3ab67e050251.png)
+![image](https://user-images.githubusercontent.com/47205003/120963736-c41de680-c77f-11eb-87a8-e10ea11d6aa3.png)
 
-2.Install docker on EC2 instance and start services(Doing this on PUTTY)
+2. Setup Jenkins Server on Putty
 
-     yum install docker
-     
- ![image](https://user-images.githubusercontent.com/47205003/120881889-f568ac00-c5f1-11eb-9c48-a768cda6b0eb.png)
- ![image](https://user-images.githubusercontent.com/47205003/120881908-14673e00-c5f2-11eb-8563-c9979c60da36.png)
+![image](https://user-images.githubusercontent.com/47205003/120965129-0d6f3580-c782-11eb-98a8-d339e9ef0980.png)
 
-    service docker start
-![image](https://user-images.githubusercontent.com/47205003/120881924-26e17780-c5f2-11eb-8ef5-b45fc7986e8d.png)
+    wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat-stable/jenkins.repo
+    
+    rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io.key
 
-     
+![image](https://user-images.githubusercontent.com/47205003/120965268-44dde200-c782-11eb-89be-f1c52e085ada.png)
+
+![image](https://user-images.githubusercontent.com/47205003/120965349-69d25500-c782-11eb-88eb-0642f1eefd6d.png)
+
+![image](https://user-images.githubusercontent.com/47205003/120965438-84a4c980-c782-11eb-8760-88848bad48a2.png)
+
