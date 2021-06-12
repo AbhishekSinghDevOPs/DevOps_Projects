@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/47205003/121778114-13667b80-cbb3-11eb-9b32-141fce334665.png)
 
-DevOps Project with GITHUB, AWS, Ansible
+# DevOps Project with GITHUB, AWS, Ansible
 
 ![image](https://user-images.githubusercontent.com/47205003/121778118-1e211080-cbb3-11eb-8abc-d9b360f615ec.png)
 
