@@ -18,7 +18,7 @@ DevOps Project with GITHUB, AWS, Ansible
      
     yum install java* -y
     
-    ![image](https://user-images.githubusercontent.com/47205003/121778166-5cb6cb00-cbb3-11eb-9817-3f390843dfaf.png)
+ ![image](https://user-images.githubusercontent.com/47205003/121778166-5cb6cb00-cbb3-11eb-9817-3f390843dfaf.png)
 
  
     wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat-stable/jenkins.repo
